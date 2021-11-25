@@ -1,0 +1,86 @@
+# github.com/alecthomas/template v0.0.0-20160405071501-a0175ee3bccc
+## explicit
+github.com/alecthomas/template
+github.com/alecthomas/template/parse
+# github.com/alecthomas/units v0.0.0-20151022065526-2efee857e7cf
+## explicit
+github.com/alecthomas/units
+# github.com/apex/log v1.1.0
+## explicit
+github.com/apex/log
+github.com/apex/log/handlers/cli
+# github.com/aws/aws-sdk-go v1.21.9
+## explicit
+github.com/aws/aws-sdk-go/aws
+github.com/aws/aws-sdk-go/aws/awserr
+github.com/aws/aws-sdk-go/aws/awsutil
+github.com/aws/aws-sdk-go/aws/client
+github.com/aws/aws-sdk-go/aws/client/metadata
+github.com/aws/aws-sdk-go/aws/corehandlers
+github.com/aws/aws-sdk-go/aws/credentials
+github.com/aws/aws-sdk-go/aws/credentials/ec2rolecreds
+github.com/aws/aws-sdk-go/aws/credentials/endpointcreds
+github.com/aws/aws-sdk-go/aws/credentials/processcreds
+github.com/aws/aws-sdk-go/aws/credentials/stscreds
+github.com/aws/aws-sdk-go/aws/csm
+github.com/aws/aws-sdk-go/aws/defaults
+github.com/aws/aws-sdk-go/aws/ec2metadata
+github.com/aws/aws-sdk-go/aws/endpoints
+github.com/aws/aws-sdk-go/aws/request
+github.com/aws/aws-sdk-go/aws/session
+github.com/aws/aws-sdk-go/aws/signer/v4
+github.com/aws/aws-sdk-go/internal/ini
+github.com/aws/aws-sdk-go/internal/sdkio
+github.com/aws/aws-sdk-go/internal/sdkrand
+github.com/aws/aws-sdk-go/internal/sdkuri
+github.com/aws/aws-sdk-go/internal/shareddefaults
+github.com/aws/aws-sdk-go/private/protocol
+github.com/aws/aws-sdk-go/private/protocol/json/jsonutil
+github.com/aws/aws-sdk-go/private/protocol/query
+github.com/aws/aws-sdk-go/private/protocol/query/queryutil
+github.com/aws/aws-sdk-go/private/protocol/rest
+github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil
+github.com/aws/aws-sdk-go/service/sqs
+github.com/aws/aws-sdk-go/service/sts
+github.com/aws/aws-sdk-go/service/sts/stsiface
+# github.com/buger/goterm v0.0.0-20181115115552-c206103e1f37
+## explicit
+github.com/buger/goterm
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+# github.com/fatih/color v1.7.0
+## explicit
+github.com/fatih/color
+# github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af
+github.com/jmespath/go-jmespath
+# github.com/mattn/go-colorable v0.0.9
+## explicit
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.4
+## explicit
+github.com/mattn/go-isatty
+# github.com/pkg/errors v0.8.0
+## explicit
+github.com/pkg/errors
+# github.com/pmezard/go-difflib v1.0.0
+## explicit
+# github.com/stretchr/testify v1.2.2
+## explicit
+# github.com/tj/assert v0.0.0-20171129193455-018094318fb0
+## explicit
+# github.com/tj/go v1.8.6
+## explicit
+github.com/tj/go/term
+# github.com/tj/go-progress v0.0.0-20180508172012-fadc638a53dd
+## explicit
+github.com/tj/go-progress
+# golang.org/x/net v0.0.0-20181114220301-adae6a3d119a
+## explicit
+# golang.org/x/sys v0.0.0-20181107165924-66b7b1311ac8
+## explicit
+golang.org/x/sys/unix
+# golang.org/x/text v0.3.0
+## explicit
+# gopkg.in/alecthomas/kingpin.v2 v2.2.6
+## explicit
+gopkg.in/alecthomas/kingpin.v2
